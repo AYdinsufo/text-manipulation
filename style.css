@@ -1,0 +1,23 @@
+#copy{
+    width:100%;
+    background-color: gray;
+    color:white;
+    bottom:0;
+    position: fixed;
+    line-height:50px;
+text-align: center;
+}
+canvas{
+    border: 5px blue;
+    box-shadow: 5px 5px 5px black;
+}
+body{
+    background-image: url("doodleimage.jpg");
+}
+.heading{
+padding:10px;
+box-shadow: 5px 5px 5px black;
+margin-top:0px;
+width: 100%;
+font-size: 25px;
+}
